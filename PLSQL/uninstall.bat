@@ -1,0 +1,1 @@
+sqlplus hsyndmrl/1@XE @clear.sql

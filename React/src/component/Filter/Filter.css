@@ -1,0 +1,13 @@
+.sidebar {
+    overflow-y: auto;
+    width: 250px;
+  }
+  
+  .sidebar.fixed {
+    position: fixed;
+    z-index: 1000;
+  }
+  
+  .sidebar.absolute {
+    position: absolute;
+  }

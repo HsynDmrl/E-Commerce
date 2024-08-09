@@ -1,0 +1,292 @@
+Running create_tables.sql
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+Running create_constraints.sql
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Table altered.
+
+Running create_sequences.sql
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Sequence created.
+
+
+0 rows updated.
+
+
+Commit complete.
+
+Running global_exceptions.sql
+
+Package created.
+
+
+Package body created.
+
+Running hash_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running category_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running user_val_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running user_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running user_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running category_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running product_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running product_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running basket_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running basket_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running basket_item_val_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running basket_item_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running basket_item_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running order_info_val_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running order_info_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running order_info_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running order_detail_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running order_detail_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running purchase_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running history_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running history_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running favorite_br_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Running favorite_pkg.sql
+
+Package created.
+
+
+Package body created.
+
+Creating directory EXPORT_CSV_DIR
+
+Directory created.
+
